@@ -10,7 +10,7 @@
 
 ### Featured projects
 - 🖼️ Image Classification with PyTorch — `classificacao-imagens-pytorch`
-- 🍷 Wine Quality Prediction (Neural Net / PyTorch) — `DL_LinearRegression_Pytorch` *(rename recommended)*
+- 🍷 Wine Quality Prediction (Neural Net / PyTorch) — `DL_LinearRegression_Pytorch` 
 - 🔎 Information Retrieval / Web Scraping — `CEUB_RecInfo_Scrapping`
 
 ### Contact
